@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/arrow_down.png-ea44cab0c4db866a1ad8c7e30a24ec48.stex"
+path="res://.import/arrow_down.png-fa2a0b07a5eeb8758f1c9cc9acf4159b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/themes/commodore_64/font/arrow_down.png"
-dest_files=[ "res://.import/arrow_down.png-ea44cab0c4db866a1ad8c7e30a24ec48.stex" ]
+source_file="res://theme/commodore_64/font/arrow_down.png"
+dest_files=[ "res://.import/arrow_down.png-fa2a0b07a5eeb8758f1c9cc9acf4159b.stex" ]
 
 [params]
 
